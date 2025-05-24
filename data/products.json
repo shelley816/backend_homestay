@@ -3,8 +3,8 @@
     "id": "p001",
     "name": "圓肚花瓶・砂白",
     "description": "自然土質與白釉交融，適合擺放單支乾燥花。",
-    "price": 680,
-    "image": "/src/assets/products_01.jpg",
+    "price": 1680,
+    "image": "/products_01.jpg",
     "category": "cup",
     "stock": 5,
     "length": 7.5,
@@ -13,11 +13,11 @@
     "weight": 220,
     "detail": [
       {
-        "image": "/src/assets/products_01_01.jpg",
+        "image": "/products_01_01.jpg",
         "text": "手工上釉過程中自然流動的釉色，呈現獨一無二的山水紋理。"
       },
       {
-        "image": "/src/assets/products_01_02.jpg",
+        "image": "/products_01_02.jpg",
         "text": "壺嘴經多次打磨與調整，確保出水順暢不易滴漏。"
       }
     ]
@@ -26,8 +26,8 @@
     "id": "p002",
     "name": "手捏茶杯・灰霧",
     "description": "以手捏技法成形，霧灰釉面呈現自然裂紋。",
-    "price": 980,
-    "image": "/src/assets/products_02.jpg",
+    "price": 1980,
+    "image": "/products_02.jpg",
     "category": "vase",
     "stock": 3,
     "length": 10,
@@ -40,8 +40,8 @@
     "id": "p003",
     "name": "早餐碗・暮藍",
     "description": "低溫釉色帶有手感刷痕，適合日常使用。",
-    "price": 820,
-    "image": "/src/assets/products_05.jpg",
+    "price": 1820,
+    "image": "/products_05.jpg",
     "category": "bowl",
     "stock": 6,
     "length": 15,
@@ -50,7 +50,7 @@
     "weight": 420,
     "detail": [
       {
-        "image": "/src/assets/products_05_01.jpg",
+        "image": "/products_05_01.jpg",
         "text": "高溫窯燒造成釉面細小裂紋，增添作品歲月感與手感溫度。"
       }
     ]
@@ -59,8 +59,8 @@
     "id": "p004",
     "name": "迷你花器・山嵐灰",
     "description": "桌面小空間點綴必備，可搭配苔玉或小植栽。",
-    "price": 560,
-    "image": "/src/assets/products_03.jpg",
+    "price": 1560,
+    "image": "/products_03.jpg",
     "category": "vase",
     "stock": 8,
     "length": 6,
@@ -69,7 +69,7 @@
     "weight": 180,
     "detail": [
       {
-        "image": "/src/assets/products_03_01.jpg",
+        "image": "/products_03_01.jpg",
         "text": "器形以傳統圓腹造型為基礎，加入現代線條設計。"
       }
     ]
@@ -79,7 +79,7 @@
     "name": "茶杯・粉彩",
     "description": "釉色深邃如夜，內面略有手捏弧度。",
     "price": 880,
-    "image": "/src/assets/products_04.jpg",
+    "image": "/products_04.jpg",
     "category": "bowl",
     "stock": 4,
     "length": 16,
@@ -88,7 +88,7 @@
     "weight": 470,
     "detail": [
       {
-        "image": "/src/assets/products_04_01.jpg",
+        "image": "/products_04_01.jpg",
         "text": "陶土中混合細沙，燒製後保留質樸自然的表面顆粒。"
       }
     ]
@@ -96,8 +96,8 @@
     "id": "p006",
     "name": "圓肚花瓶・砂白",
     "description": "自然土質與白釉交融，適合擺放單支乾燥花。",
-    "price": 680,
-    "image": "/src/assets/products_01.jpg",
+    "price": 1680,
+    "image": "/products_01.jpg",
     "category": "cup",
     "stock": 5,
     "length": 7.5,
@@ -106,11 +106,11 @@
     "weight": 220,
     "detail": [
       {
-        "image": "/src/assets/products_01_01.jpg",
+        "image": "/products_01_01.jpg",
         "text": "手工上釉過程中自然流動的釉色，呈現獨一無二的山水紋理。"
       },
       {
-        "image": "/src/assets/products_01_02.jpg",
+        "image": "/products_01_02.jpg",
         "text": "壺嘴經多次打磨與調整，確保出水順暢不易滴漏。"
       }
     ]
@@ -119,8 +119,8 @@
     "id": "p007",
     "name": "手捏茶杯・灰霧",
     "description": "以手捏技法成形，霧灰釉面呈現自然裂紋。",
-    "price": 980,
-    "image": "/src/assets/products_02.jpg",
+    "price": 1980,
+    "image": "/products_02.jpg",
     "category": "vase",
     "stock": 3,
     "length": 10,
@@ -133,8 +133,8 @@
     "id": "p008",
     "name": "早餐碗・暮藍",
     "description": "低溫釉色帶有手感刷痕，適合日常使用。",
-    "price": 820,
-    "image": "/src/assets/products_05.jpg",
+    "price": 1820,
+    "image": "/products_05.jpg",
     "category": "bowl",
     "stock": 6,
     "length": 15,
@@ -143,7 +143,7 @@
     "weight": 420,
     "detail": [
       {
-        "image": "/src/assets/products_05_01.jpg",
+        "image": "/products_05_01.jpg",
         "text": "高溫窯燒造成釉面細小裂紋，增添作品歲月感與手感溫度。"
       }
     ]
@@ -152,8 +152,8 @@
     "id": "p009",
     "name": "迷你花器・山嵐灰",
     "description": "桌面小空間點綴必備，可搭配苔玉或小植栽。",
-    "price": 560,
-    "image": "/src/assets/products_03.jpg",
+    "price": 1560,
+    "image": "/products_03.jpg",
     "category": "vase",
     "stock": 8,
     "length": 6,
@@ -162,7 +162,7 @@
     "weight": 180,
     "detail": [
       {
-        "image": "/src/assets/products_03_01.jpg",
+        "image": "/products_03_01.jpg",
         "text": "器形以傳統圓腹造型為基礎，加入現代線條設計。"
       }
     ]
@@ -172,7 +172,7 @@
     "name": "茶杯・粉彩",
     "description": "釉色深邃如夜，內面略有手捏弧度。",
     "price": 880,
-    "image": "/src/assets/products_04.jpg",
+    "image": "/products_04.jpg",
     "category": "bowl",
     "stock": 4,
     "length": 16,
@@ -181,7 +181,7 @@
     "weight": 470,
     "detail": [
       {
-        "image": "/src/assets/products_04_01.jpg",
+        "image": "/products_04_01.jpg",
         "text": "陶土中混合細沙，燒製後保留質樸自然的表面顆粒。"
       }
     ]
@@ -189,8 +189,8 @@
     "id": "p011",
     "name": "圓肚花瓶・砂白",
     "description": "自然土質與白釉交融，適合擺放單支乾燥花。",
-    "price": 680,
-    "image": "/src/assets/products_01.jpg",
+    "price": 1680,
+    "image": "/products_01.jpg",
     "category": "cup",
     "stock": 5,
     "length": 7.5,
@@ -199,11 +199,11 @@
     "weight": 220,
     "detail": [
       {
-        "image": "/src/assets/products_01_01.jpg",
+        "image": "/products_01_01.jpg",
         "text": "手工上釉過程中自然流動的釉色，呈現獨一無二的山水紋理。"
       },
       {
-        "image": "/src/assets/products_01_02.jpg",
+        "image": "/products_01_02.jpg",
         "text": "壺嘴經多次打磨與調整，確保出水順暢不易滴漏。"
       }
     ]
@@ -212,8 +212,8 @@
     "id": "p012",
     "name": "手捏茶杯・灰霧",
     "description": "以手捏技法成形，霧灰釉面呈現自然裂紋。",
-    "price": 980,
-    "image": "/src/assets/products_02.jpg",
+    "price": 1980,
+    "image": "/products_02.jpg",
     "category": "vase",
     "stock": 3,
     "length": 10,
@@ -226,8 +226,8 @@
     "id": "p013",
     "name": "早餐碗・暮藍",
     "description": "低溫釉色帶有手感刷痕，適合日常使用。",
-    "price": 820,
-    "image": "/src/assets/products_05.jpg",
+    "price": 1820,
+    "image": "/products_05.jpg",
     "category": "bowl",
     "stock": 6,
     "length": 15,
@@ -236,7 +236,7 @@
     "weight": 420,
     "detail": [
       {
-        "image": "/src/assets/products_05_01.jpg",
+        "image": "/products_05_01.jpg",
         "text": "高溫窯燒造成釉面細小裂紋，增添作品歲月感與手感溫度。"
       }
     ]
@@ -245,8 +245,8 @@
     "id": "p014",
     "name": "迷你花器・山嵐灰",
     "description": "桌面小空間點綴必備，可搭配苔玉或小植栽。",
-    "price": 560,
-    "image": "/src/assets/products_03.jpg",
+    "price": 1560,
+    "image": "/products_03.jpg",
     "category": "vase",
     "stock": 8,
     "length": 6,
@@ -255,7 +255,7 @@
     "weight": 180,
     "detail": [
       {
-        "image": "/src/assets/products_03_01.jpg",
+        "image": "/products_03_01.jpg",
         "text": "器形以傳統圓腹造型為基礎，加入現代線條設計。"
       }
     ]
@@ -265,7 +265,7 @@
     "name": "茶杯・粉彩",
     "description": "釉色深邃如夜，內面略有手捏弧度。",
     "price": 880,
-    "image": "/src/assets/products_04.jpg",
+    "image": "/products_04.jpg",
     "category": "bowl",
     "stock": 4,
     "length": 16,
@@ -274,7 +274,7 @@
     "weight": 470,
     "detail": [
       {
-        "image": "/src/assets/products_04_01.jpg",
+        "image": "/products_04_01.jpg",
         "text": "陶土中混合細沙，燒製後保留質樸自然的表面顆粒。"
       }
     ]
@@ -282,8 +282,8 @@
     "id": "p016",
     "name": "圓肚花瓶・砂白",
     "description": "自然土質與白釉交融，適合擺放單支乾燥花。",
-    "price": 680,
-    "image": "/src/assets/products_01.jpg",
+    "price": 1680,
+    "image": "/products_01.jpg",
     "category": "cup",
     "stock": 5,
     "length": 7.5,
@@ -292,11 +292,11 @@
     "weight": 220,
     "detail": [
       {
-        "image": "/src/assets/products_01_01.jpg",
+        "image": "/products_01_01.jpg",
         "text": "手工上釉過程中自然流動的釉色，呈現獨一無二的山水紋理。"
       },
       {
-        "image": "/src/assets/products_01_02.jpg",
+        "image": "/products_01_02.jpg",
         "text": "壺嘴經多次打磨與調整，確保出水順暢不易滴漏。"
       }
     ]
@@ -305,8 +305,8 @@
     "id": "p017",
     "name": "手捏茶杯・灰霧",
     "description": "以手捏技法成形，霧灰釉面呈現自然裂紋。",
-    "price": 980,
-    "image": "/src/assets/products_02.jpg",
+    "price": 1980,
+    "image": "/products_02.jpg",
     "category": "vase",
     "stock": 3,
     "length": 10,
