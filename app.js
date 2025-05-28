@@ -1,7 +1,7 @@
-import dotenv from "dotenv";
-dotenv.config();
-
 import mongoose from "mongoose";
+import dotenv from "dotenv";
+
+dotenv.config();
 import Order from "./models/Order.js";
 import fs from "node:fs/promises";
 import bodyParser from "body-parser";
