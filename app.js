@@ -13,8 +13,6 @@ const app = express();
 app.use(bodyParser.json());
 app.use(express.static("public"));
 
-const mongoUri = process.env.MONGODB_URI;
-
 app.use((req, res, next) => {
   res.setHeader("Access-Control-Allow-Origin", "*");
   res.setHeader(
@@ -64,6 +62,11 @@ app.get("/products/:id", async (req, res) => {
   res.json({ product });
 });
 
+mongoose
+  .connect(process.env.MONGODB_URI)
+  .then(() => console.log("✅ 成功連接 MongoDB"))
+  .catch((err) => console.error("❌ MongoDB 連接失敗:", err));
+
 app.post("/orders", async (req, res) => {
   const orderData = req.body.order;
 
@@ -103,11 +106,6 @@ app.post("/orders", async (req, res) => {
     res.status(500).json({ message: "資料庫錯誤，無法儲存訂單。" });
   }
 });
-
-mongoose
-  .connect(mongoUri)
-  .then(() => console.log("✅ 成功連接 MongoDB"))
-  .catch((err) => console.error("❌ MongoDB 連接失敗:", err));
 
 app.listen(8080, () => {
   console.log("Server running on port 8080");
