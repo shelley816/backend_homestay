@@ -1,11 +1,11 @@
+import dotenv from "dotenv";
+dotenv.config();
+
 import mongoose from "mongoose";
 import Order from "./models/Order.js";
 import fs from "node:fs/promises";
 import bodyParser from "body-parser";
 import express from "express";
-import dotenv from "dotenv";
-dotenv.config();
-
 import xss from "xss";
 
 const app = express();
